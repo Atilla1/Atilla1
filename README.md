@@ -10,7 +10,7 @@
 </h3>
 
 <div align="center">
-  <h2>💡 Fundamentals</h2>
+  <h2>💡 Core Technologies & Fundamentals</h2>
   <img src="https://github.com/user-attachments/assets/5932717f-7993-4aeb-befc-2d1ba22b6623" width="75" alt="Tool HTML">
   <img src="https://github.com/user-attachments/assets/b433cc6b-f692-418b-91e4-7300be0ef907" width="75" alt="Tool CSS">
   <img src="https://github.com/user-attachments/assets/38b2646b-7fde-48d7-9741-21d708607c4e" width="75" alt="Tool TypeScript">
