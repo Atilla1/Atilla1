@@ -26,14 +26,24 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Backend- & Deployment Technologies</h2>
+  <h2>🚀 Backend Technologies</h2>
   <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" title="Node.js">
   <img src="https://github.com/user-attachments/assets/f5e7b91e-6a6f-49b0-9e98-3d53db16eda5" width="75" title="JSON">
   <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" title="Express.js">
   <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" title="Prisma">
   <img src="https://github.com/user-attachments/assets/67d7defc-c206-41f7-91c4-d5583584306e" width="75" title="Postgresql">
+</div>
+</div>
+
+<div align="center">
+  <h2>🌿 Version Control & Deployment Tools</h2>
+  <img src="https://github.com/user-attachments/assets/7476c265-0f8f-4e3b-952c-c36bc5ead3c9" width="75" title="Azure"> 
+  <img src="https://github.com/user-attachments/assets/cfe47fb5-b4a7-4aca-b02c-16ccbcc68fa0" width="75" title="Jira"> 
+  <img src="https://github.com/user-attachments/assets/bb13cf48-69ee-432e-94d7-5c4131463839" width="75" title="Scrum"> 
+  <img src="https://github.com/user-attachments/assets/852ea966-64ed-4fa6-a3a3-d98c3d104e9b" width="70" title="Visual Studio Code"> 
    <img src="https://github.com/user-attachments/assets/b1bed1aa-14db-4771-b8ec-0cb64c882dd3" width="75" title="Azure"> 
    <img src="https://github.com/user-attachments/assets/bd614a93-b59d-4763-a004-dd8c895107ca" width="75" title="Vercel"> 
+     
 </div>
 </div>
 
@@ -52,5 +62,3 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-
