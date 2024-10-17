@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a passionate developer with a love for creating innovative web applications. 
+  I'm a dedicated developer focused on creating innovative web applications. 
   Take a look at my work and feel free to connect!
 </h3>
 
@@ -36,7 +36,7 @@
 <div align="center">
   <h2>📫 Contact Me</h2>
   <p align="center">
-    Feel free to connect with me on GitHub or LinkedIn!
+    Feel free to connect with me!
   </p>
   <a href="https://github.com/atilla1">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
