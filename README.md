@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/atyu/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:atilla1993@hotmail.se">
+  <a href="mailto:atilla@yuce.se">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
