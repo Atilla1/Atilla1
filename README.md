@@ -31,7 +31,7 @@
   <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" alt="Backend Tool Express.js">
   <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" alt="Backend Tool Prisma">
   <img src="https://github.com/user-attachments/assets/4ba3df71-82b4-41a8-8454-58b227a16272" width="75" alt="Backend Tool Postgresql">
-   <img src="https://github.com/user-attachments/assets/733c5670-957d-4d0a-aaff-1af70aa99700" width="75" alt="Deployment Tool Azure"> 
+   <img src="https://github.com/user-attachments/assets/b1bed1aa-14db-4771-b8ec-0cb64c882dd3" width="75" alt="Deployment Tool Azure"> 
 </div>
 </div>
 
