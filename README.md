@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <h2>✉️ Contact Me</h2>
+  <h2>✉️ Contact Details</h2>
   <p align="center">
     Feel free to connect with me!
   </p>
