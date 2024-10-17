@@ -37,7 +37,7 @@
 
 <div align="center">
   <h2>🌿 Version Control & Deployment Tools</h2>
-  <img src="https://github.com/user-attachments/assets/7476c265-0f8f-4e3b-952c-c36bc5ead3c9" width="75" title="Azure"> 
+  <img src="https://github.com/user-attachments/assets/7476c265-0f8f-4e3b-952c-c36bc5ead3c9" width="75" title="Github"> 
   <img src="https://github.com/user-attachments/assets/cfe47fb5-b4a7-4aca-b02c-16ccbcc68fa0" width="75" title="Jira"> 
   <img src="https://github.com/user-attachments/assets/bb13cf48-69ee-432e-94d7-5c4131463839" width="75" title="Scrum"> 
   <img src="https://github.com/user-attachments/assets/852ea966-64ed-4fa6-a3a3-d98c3d104e9b" width="70" title="Visual Studio Code"> 
