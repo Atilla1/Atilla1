@@ -28,10 +28,12 @@
 <div align="center">
   <h2>🚀 Backend- & Deployment Technologies</h2>
   <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" alt="Backend Tool Node.js">
+  <img src="https://github.com/user-attachments/assets/f5e7b91e-6a6f-49b0-9e98-3d53db16eda5" width="75" alt="Backend Tool JSON">
   <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" alt="Backend Tool Express.js">
   <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" alt="Backend Tool Prisma">
-  <img src="https://github.com/user-attachments/assets/4ba3df71-82b4-41a8-8454-58b227a16272" width="75" alt="Backend Tool Postgresql">
+  <img src="https://github.com/user-attachments/assets/67d7defc-c206-41f7-91c4-d5583584306e" width="75" alt="Backend Tool Postgresql">
    <img src="https://github.com/user-attachments/assets/b1bed1aa-14db-4771-b8ec-0cb64c882dd3" width="75" alt="Deployment Tool Azure"> 
+   <img src="https://github.com/user-attachments/assets/bd614a93-b59d-4763-a004-dd8c895107ca" width="75" alt="Deployment Tool Vercel"> 
 </div>
 </div>
 
@@ -50,3 +52,5 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+
