@@ -21,15 +21,15 @@
   <h2>🌐 Frontend Technologies</h2>
   <img src="https://github.com/user-attachments/assets/112c5f12-26e5-4e84-aaac-984937ebce05" width="75" title="React">
   <img src="https://github.com/user-attachments/assets/ebb4dbe6-537e-4ca1-8473-0b15045f11c3" width="75" title="Redux">
-  <img src="https://github.com/user-attachments/assets/cca95d72-aaaf-4de5-878c-63443b5793f8" width="75" title="Taildwind">
+  <img src="https://github.com/user-attachments/assets/cca95d72-aaaf-4de5-878c-63443b5793f8" width="75" title="Taildwind CSS">
   <img src="https://github.com/user-attachments/assets/3412d02c-cf5d-4b66-8e62-89e4b3606bea" width="75" title="Vite">
 </div>
 
 <div align="center">
   <h2>🚀 Backend Technologies</h2>
-  <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" title="Node.js">
+  <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" title="Node">
   <img src="https://github.com/user-attachments/assets/f5e7b91e-6a6f-49b0-9e98-3d53db16eda5" width="75" title="JSON">
-  <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" title="Express.js">
+  <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" title="Express">
   <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" title="Prisma">
   <img src="https://github.com/user-attachments/assets/67d7defc-c206-41f7-91c4-d5583584306e" width="75" title="Postgresql">
 </div>
