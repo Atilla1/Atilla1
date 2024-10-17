@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <h2>🌐 Frontend</h2>
+  <h2>🌐 Frontend Technologies</h2>
   <img src="https://github.com/user-attachments/assets/112c5f12-26e5-4e84-aaac-984937ebce05" width="75" alt="Frontend Tool React">
   <img src="https://github.com/user-attachments/assets/ebb4dbe6-537e-4ca1-8473-0b15045f11c3" width="75" alt="Frontend Tool Redux">
   <img src="https://github.com/user-attachments/assets/cca95d72-aaaf-4de5-878c-63443b5793f8" width="75" alt="Frontend Tool Taildwind">
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Backend & Deployment</h2>
+  <h2>🚀 Backend- & Deployment Technologies</h2>
   <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" alt="Backend Tool Node.js">
   <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" alt="Backend Tool Express.js">
   <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" alt="Backend Tool Prisma">
