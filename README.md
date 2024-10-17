@@ -11,29 +11,29 @@
 
 <div align="center">
   <h2>💡 Core Technologies & Fundamentals</h2>
-  <img src="https://github.com/user-attachments/assets/5932717f-7993-4aeb-befc-2d1ba22b6623" width="75" alt="Tool HTML">
-  <img src="https://github.com/user-attachments/assets/b433cc6b-f692-418b-91e4-7300be0ef907" width="75" alt="Tool CSS">
-  <img src="https://github.com/user-attachments/assets/38b2646b-7fde-48d7-9741-21d708607c4e" width="75" alt="Tool TypeScript">
-  <img src="https://github.com/user-attachments/assets/7ca93a12-adfd-4ac4-a140-c420f03364ca" width="75" alt="Tool JavaScript">
+  <img src="https://github.com/user-attachments/assets/5932717f-7993-4aeb-befc-2d1ba22b6623" width="75" title="HTML">
+  <img src="https://github.com/user-attachments/assets/b433cc6b-f692-418b-91e4-7300be0ef907" width="75" title="CSS">
+  <img src="https://github.com/user-attachments/assets/38b2646b-7fde-48d7-9741-21d708607c4e" width="75" title="TypeScript">
+  <img src="https://github.com/user-attachments/assets/7ca93a12-adfd-4ac4-a140-c420f03364ca" width="75" title="JavaScript">
 </div>
 
 <div align="center">
   <h2>🌐 Frontend Technologies</h2>
-  <img src="https://github.com/user-attachments/assets/112c5f12-26e5-4e84-aaac-984937ebce05" width="75" alt="Frontend Tool React">
-  <img src="https://github.com/user-attachments/assets/ebb4dbe6-537e-4ca1-8473-0b15045f11c3" width="75" alt="Frontend Tool Redux">
-  <img src="https://github.com/user-attachments/assets/cca95d72-aaaf-4de5-878c-63443b5793f8" width="75" alt="Frontend Tool Taildwind">
-  <img src="https://github.com/user-attachments/assets/3412d02c-cf5d-4b66-8e62-89e4b3606bea" width="75" alt="Frontend Tool Vite">
+  <img src="https://github.com/user-attachments/assets/112c5f12-26e5-4e84-aaac-984937ebce05" width="75" title="React">
+  <img src="https://github.com/user-attachments/assets/ebb4dbe6-537e-4ca1-8473-0b15045f11c3" width="75" title="Redux">
+  <img src="https://github.com/user-attachments/assets/cca95d72-aaaf-4de5-878c-63443b5793f8" width="75" title="Taildwind">
+  <img src="https://github.com/user-attachments/assets/3412d02c-cf5d-4b66-8e62-89e4b3606bea" width="75" title="Vite">
 </div>
 
 <div align="center">
   <h2>🚀 Backend- & Deployment Technologies</h2>
-  <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" alt="Backend Tool Node.js">
-  <img src="https://github.com/user-attachments/assets/f5e7b91e-6a6f-49b0-9e98-3d53db16eda5" width="75" alt="Backend Tool JSON">
-  <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" alt="Backend Tool Express.js">
-  <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" alt="Backend Tool Prisma">
-  <img src="https://github.com/user-attachments/assets/67d7defc-c206-41f7-91c4-d5583584306e" width="75" alt="Backend Tool Postgresql">
-   <img src="https://github.com/user-attachments/assets/b1bed1aa-14db-4771-b8ec-0cb64c882dd3" width="75" alt="Deployment Tool Azure"> 
-   <img src="https://github.com/user-attachments/assets/bd614a93-b59d-4763-a004-dd8c895107ca" width="75" alt="Deployment Tool Vercel"> 
+  <img src="https://github.com/user-attachments/assets/3002cc07-72e6-4c3a-9930-337ae256f4f8" width="75" title="Node.js">
+  <img src="https://github.com/user-attachments/assets/f5e7b91e-6a6f-49b0-9e98-3d53db16eda5" width="75" title="JSON">
+  <img src="https://github.com/user-attachments/assets/7ba4f489-7ee9-4659-80a1-52f95d72570a" width="75" title="Express.js">
+  <img src="https://github.com/user-attachments/assets/0ce2236e-742e-4448-a5b5-5b9e9d10f13d" width="75" title="Prisma">
+  <img src="https://github.com/user-attachments/assets/67d7defc-c206-41f7-91c4-d5583584306e" width="75" title="Postgresql">
+   <img src="https://github.com/user-attachments/assets/b1bed1aa-14db-4771-b8ec-0cb64c882dd3" width="75" title="Azure"> 
+   <img src="https://github.com/user-attachments/assets/bd614a93-b59d-4763-a004-dd8c895107ca" width="75" title="Vercel"> 
 </div>
 </div>
 
