@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="50">
-  Hey there, welcome aboard! 
+  Hey there
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="50">
 </h1>
 
@@ -61,4 +61,7 @@
   <a href="mailto:atilla@yuce.se">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://yuce.se">
+  <img src="https://img.shields.io/badge/-Website-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+</a>
 </div>
