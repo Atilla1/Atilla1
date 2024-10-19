@@ -8,7 +8,7 @@
   I'm a dedicated developer focused on creating innovative web applications. 
   Take a look at my work and feel free to connect!
 </h3>
-t
+
 <div align="center">
   <h2>💡 Core Technologies & Fundamentals</h2>
   <img src="https://github.com/user-attachments/assets/5932717f-7993-4aeb-befc-2d1ba22b6623" width="75" title="HTML">
